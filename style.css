@@ -109,6 +109,8 @@ h2{
 }
 .bro{
     display: flex;
+    padding-left: 30px;
+    padding-right: 30px;
 }
 .male-pic img{
     height: 300px;
@@ -119,3 +121,36 @@ h2{
     width: 200%;
     padding: 30px;
     margin-right: 1%;
+}
+.blog{
+    display: flex;
+    margin-top: 100px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.blog-build{
+    width: 100%;
+    padding: 30px;
+    margin-right: 1%;
+}
+.blog-pic img{
+    height: 300px;
+    width: 400px;
+    margin: 5px;
+}
+footer{
+     font-family: "Lucida Console", "Courier New", monospace;
+}
+.footer{
+  width: 100%;
+  background-color: rgb(23, 24, 23);
+  color: rgb(255, 255, 255);
+  text-align: center;
+  padding: 10px 70px;
+  margin-top: 100px;
+}
+.y{
+    color: red;
+    font-family: 'Brush Script MT', cursive;
+    font-size: xx-large;
+}
